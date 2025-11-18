@@ -1,0 +1,4 @@
+project_id = "uxedmfrqxbgznmcvagon"
+
+[functions.send-task-notification]
+verify_jwt = false
